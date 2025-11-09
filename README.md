@@ -1,6 +1,6 @@
 # 🏗️ DW-Construction — Tableau de bord BI pour le suivi des travaux d’une société de construction
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Desktop%202024-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Service%202024-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![ETL](https://img.shields.io/badge/ETL-Excel%20➜%20DWH-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
